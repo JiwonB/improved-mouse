@@ -12,7 +12,7 @@ namespace greeting
         {
             if (args.Length == 0)
             {
-                Console.WriteLine("Hellooo \n 반갑습니다");
+                Console.WriteLine("Hellooo \n Nice to meet you");
                 return;
             }
             Console.WriteLine("안녕하세요,{0}!", args[0]);
